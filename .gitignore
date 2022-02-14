@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# working files
+queries.sql
+emp_info.csv
+retirement_count.csv
+retirement_info.csv
+
 # Distribution / packaging
 .Python
 build/
